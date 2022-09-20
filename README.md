@@ -1,2 +1,2 @@
-# primeiro-projeto-l-gico-de-banco-de-dados-DIO
+# primeiro-projeto-logico-de-banco-de-dados-DIO
 Initial commit
